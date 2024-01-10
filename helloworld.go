@@ -9,4 +9,6 @@ import (
 func main() {
 	message := greetings.Hello("Chris")
 	fmt.Println(message)
+
+	fmt.Println("Commit 2")
 }
